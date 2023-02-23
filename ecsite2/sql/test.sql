@@ -3,3 +3,12 @@ set foreign_key_checks = 0;
 karakida
 karakida2
 
+test
+test
+test
+test
+
+
+
+
+
